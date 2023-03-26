@@ -1,0 +1,3 @@
+[submodule "cross-view-image-synthesis"]
+	path = cross-view-image-synthesis
+	url = git@github.com:rachelzh9/cross-view-image-synthesis.git
