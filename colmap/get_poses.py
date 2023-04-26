@@ -38,3 +38,4 @@ class ColmapDataLoader:
 if __name__ == "__main__":
     c = ColmapDataLoader()
     frames, cameras = c[0]
+    print(cameras)
